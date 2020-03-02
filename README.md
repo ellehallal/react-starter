@@ -9,12 +9,12 @@
   - [2.1. `npm start`](#npmstart)
   - [2.2. `npm run build`](#npmrunbuild)
   - [2.3. `npm test`](#npmtest)
-  - [2.4. `npm run testcoverage`](#npmruntest:coverage)
-  - [2.5. `npm run testno-watch`](#npmruntest:no-watch)
+  - [2.4. `npm run test:coverage`](#npmruntestcoverage)
+  - [2.5. `npm run test:no-watch`](#npmruntestno-watch)
   - [2.6. `npm run storybook`](#npmrunstorybook)
-  - [2.7. `npm run storybookbuild`](#npmrunstorybook:build)
+  - [2.7. `npm run storybook:build`](#npmrunstorybookbuild)
   - [2.8. `npm run lint`](#npmrunlint)
-  - [2.9. `npm run lintfix`](#npmrunlint:fix)
+  - [2.9. `npm run lint:fix`](#npmrunlintfix)
 - [3. Directory Structure](#DirectoryStructure)
   - [3.1. src Directory Structure](#srcDirectoryStructure)
   - [3.1.1. Component Directory](#ComponentDirectory)
@@ -37,7 +37,7 @@
 
 ## <a name='About'></a>1. About
 
-This project react starter is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A starter kit for React projects. React starter is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - node version: 12.13.0
 - npm version: 6.12.0 or above
